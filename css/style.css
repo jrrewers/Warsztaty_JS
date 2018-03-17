@@ -1,3 +1,4 @@
+/* zmiana 1 w css */
 html,
 body {
   margin: 0;
@@ -56,6 +57,8 @@ nav {
   margin: auto;
   padding: 1rem 4rem 1rem 2rem;
 }
+
+/* zmiana 2 w css */
 
 .dropdown ul {
   list-style: none;
